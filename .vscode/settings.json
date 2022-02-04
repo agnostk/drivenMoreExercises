@@ -9,5 +9,7 @@
         "**/*.test.js": true,
         "**/node_modules": true,
         "**/*.json": true,
+        ".gitignore": true,
+        "LICENSE": true,
     }
 }
